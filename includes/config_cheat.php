@@ -1,6 +1,6 @@
 <?
 /*
-portal-config.php 
+config_cheat.php 
 
 Use to store all of our IT 162 configuration info
 
